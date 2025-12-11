@@ -1,5 +1,3 @@
-package com.exemplo;
-
 public class Pessoa {
 
     public static boolean emailValid(String email) {
